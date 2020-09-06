@@ -1,0 +1,13 @@
+.comment-pattern{
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid gainsboro;
+    border-radius: 20px;
+}
+.comment{
+    background: white;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid gainsboro;
+    border-radius: 10px;
+}
